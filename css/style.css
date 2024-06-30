@@ -1,0 +1,10 @@
+#game-board {
+    border: 1px solid black;
+    height: 450px;
+    width: 450px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
