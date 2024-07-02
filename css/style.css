@@ -19,7 +19,7 @@ body {
     width: 500px;
 }
 
-.game-squares {
+#game-board div {
     border: 1px solid black;
     height: calc(100% / 3);
     width: calc(100% / 3);
