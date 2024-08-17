@@ -10,17 +10,3 @@ body {
     align-items: center;
 }
 
-#game-board {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border: 1px solid black;
-    height: 500px;
-    width: 500px;
-}
-
-#game-board div {
-    border: 1px solid black;
-    height: calc(100% / 3);
-    width: calc(100% / 3);
-}
